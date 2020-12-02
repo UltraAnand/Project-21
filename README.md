@@ -1,2 +1,2 @@
-# p5.play-boilerplate
+# bullet
 Boiler plate for p5.play
